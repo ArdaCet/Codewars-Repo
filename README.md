@@ -29,4 +29,5 @@ I am only using Python in codewars for now. Since I am a young and inexperienced
 #### Python Kyu 6
 
 ### Warning
-I believe it is not logical to copy and paste someone's solutions from any places. It is bad to be a copycat and codewars will most probably detect that you are cheating. Then, this will follow by a permenant ban from the system..
+I believe it is not logical to copy and paste someone's solutions from any places. It is bad to be a copycat and codewars will most probably detect that you are cheating. Then, this will follow by a permenant ban from the system. Therefore, please only use this repository to have  idea about the problem solutions which you have hard time. 
+I would like to warn, although you are probably better than me anyways.
