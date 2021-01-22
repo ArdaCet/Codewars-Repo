@@ -21,7 +21,8 @@ I highly recommend to spend some time in codewars. At least give it a try for on
 I am only using Python in codewars for now. Since I am a young and inexperienced computational biologist I am not good at coding too. Therefore, if you are going to take a look at my Python solutions, please be careful :)
 
 ### My Codewars Profile
-https://www.codewars.com/users/ArdaCet/badges/large
+
+![My Codewarrior Profile Badges](https://www.codewars.com/users/ArdaCet/badges/large)
 
 [Click to see my profile](https://www.codewars.com/users/ArdaCet)
 
