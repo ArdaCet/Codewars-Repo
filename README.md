@@ -12,9 +12,8 @@ In codewars, the level means kyu. And as you have more kyu you face with more di
 The below scheme depicts the leveling system.
 
 ![Alt text](https://camo.githubusercontent.com/5f28e2e61b2abbc1144a892d684a6b87e58f5b10526170cf7496012a3dbe08bb/68747470733a2f2f692e696d6775722e636f6d2f566d3737584d762e706e67)
-<img src="https://camo.githubusercontent.com/5f28e2e61b2abbc1144a892d684a6b87e58f5b10526170cf7496012a3dbe08bb/68747470733a2f2f692e696d6775722e636f6d2f566d3737584d762e706e67.svg">
+<img src="https://camo.githubusercontent.com/5f28e2e61b2abbc1144a892d684a6b87e58f5b10526170cf7496012a3dbe08bb/68747470733a2f2f692e696d6775722e636f6d2f566d3737584d762e706e67">
 
-https://camo.githubusercontent.com/5f28e2e61b2abbc1144a892d684a6b87e58f5b10526170cf7496012a3dbe08bb/68747470733a2f2f692e696d6775722e636f6d2f566d3737584d762e706e67
 
 ### Codewars is fun!
 I highly recommend to spend some time in codewars. At least give it a try for once, you will not regret because it is a pure fun. Besides, you learn programming by struggling to find answers for the questions and provide you an environment to apply your skills and hence, develop yourself.
